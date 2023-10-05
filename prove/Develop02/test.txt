@@ -1,0 +1,3 @@
+2023-10-03|Who was the most interesting person I interacted with today?|Tanner
+2023-10-03|What was the best part of my day?|Learn more about C# 
+2023-10-03|What was the best part of my day?|Understand why C# does

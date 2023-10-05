@@ -1,0 +1,5 @@
+2023-10-03|Who was the most interesting person I interacted with today?|Tanner
+2023-10-03|What was the best part of my day?|Learn more about C# 
+2023-10-03|What was the best part of my day?|Understand why C# does
+818212|Who was the most interesting person I interacted with today?|Tanner
+1921921|If I had one thing I could do over today, what would it be?|Learn more about C#
